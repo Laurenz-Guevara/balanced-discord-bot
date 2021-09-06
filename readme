@@ -13,4 +13,5 @@ Setup {
 Run Index.ts use - ts-node index.ts
 "npm run tsc" - Duplicates index.ts and changes into index.js
 
+Branch Strategy - Development into Main
 Github - https://github.com/Laurenz-Guevara/balanced-discord-bot
