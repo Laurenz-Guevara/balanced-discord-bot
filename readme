@@ -1,0 +1,16 @@
+Discord Bot for the World of Warcraft Guild Balanced
+Created by Laurenz Guevara
+
+Node v16.8.0
+
+Setup {
+    npm init -y
+    npm install discord.js dotenv
+    npm install -g typescript ts-node
+    tsc -init (Note if tsc.ps1 cannot be loaded because running scripts is disabled on this system, run powershell as Admin then paste Set-ExecutionPolicy -ExecutionPolicy RemoteSigned)
+}
+
+Run Index.ts use - ts-node index.ts
+"npm run tsc" - Duplicates index.ts and changes into index.js
+
+Github - https://github.com/Laurenz-Guevara/balanced-discord-bot
