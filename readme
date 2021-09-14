@@ -15,3 +15,4 @@ Run Index.ts use - ts-node index.ts
 
 Branch Strategy - Development into Main
 Github - https://github.com/Laurenz-Guevara/balanced-discord-bot
+Invite - https://discord.com/oauth2/authorize?client_id=884265505903501322&scope=bot&error=invalid_scope&error_description=The+requested+scope+is+invalid%2C+unknown%2C+or+malformed.
