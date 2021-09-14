@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Developer Added
+
+package-lock.json
+package.json
+tsconfig.json
+oldcode.ts
+oldcode.js
